@@ -31,6 +31,7 @@ This is a solution to the [Digital Business Card on Scrimba](https://scrimba.com
 
 ### Links
 
+- Live Site URL: [@Netlify](https://digital-business-card-bennev.netlify.app/)
 - Solution URL: [@GitHub](https://github.com/Bennev/digital-business-card)
 
 ### Getting Started with Create React App
