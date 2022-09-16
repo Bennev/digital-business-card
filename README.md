@@ -1,6 +1,6 @@
 # Scrimba - Digital Business Card Solution
 
-This is a solution to the [Digital Business Card on Scrimba](https://scrimba.com/learn/learnreact). Scrimba helps you improve your coding skills by building realistic projects.
+This is a solution to the [Solo project: Digital Business Card on Scrimba](https://scrimba.com/learn/learnreact). Scrimba helps you improve your coding skills by building realistic projects.
 
 ## Table of Contents
 
