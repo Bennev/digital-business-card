@@ -32,6 +32,7 @@ This is a solution to the [Solo project: Digital Business Card on Scrimba](https
 ### Links
 
 - Live Site URL: [@Netlify](https://digital-business-card-bennev.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/839e97e0-b9cc-4927-884f-ed0b5331189d/deploy-status)](https://app.netlify.com/sites/digital-business-card-bennev/deploys)
 - Solution URL: [@GitHub](https://github.com/Bennev/digital-business-card)
 
 ### Getting Started with Create React App
